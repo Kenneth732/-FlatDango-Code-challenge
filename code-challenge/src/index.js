@@ -1,6 +1,4 @@
 // Your code here
-// 
-// Your code here
 let url = 'http://localhost:3000/films'
 const listHolder = document.getElementById('films')
 document.addEventListener('DOMContentLoaded', () => {
